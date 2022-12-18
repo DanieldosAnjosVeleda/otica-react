@@ -1,7 +1,7 @@
 <h1>Ótica</h1>
 
 <p>Projeto de uma página responsiva com React de uma ótica.</p>
-<p>Link da página <a href="https://danieldosanjosveleda.github.io/otica-react/">aqui</a></p>
+<p>Link da página <a href="https://danieldosanjosveleda.github.io/otica-react/">aqui.</a></p>
 
 <h2>Tecnologias utilizadas</h2>
 
@@ -13,7 +13,7 @@
 </div>
 <br>
 <br>
-<h3>Segue abaixo algumas imagens do projeto</h3>
+<h3>Segue abaixo algumas imagens do projeto:</h3>
 <br>
 
 ![2022-11-26 (6)](https://user-images.githubusercontent.com/104016282/204112093-f7ca7a72-1af7-491c-ad85-c6744bb9c0a9.png)
